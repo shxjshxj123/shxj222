@@ -1,5 +1,5 @@
 {
-  "spider": "./xzy.jar",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/shxjshxj123/shxj222/main/xzy.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://gitea.com/shxj123/zhibo/raw/branch/main/xyz.txt"]}]}],
   "rules": [
