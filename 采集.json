@@ -139,11 +139,7 @@
 {"key":"飞鱼影视","name":"飞鱼影视(聚)","type":1,"api":"https://app.feiyu5.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"快看客栈","name":"快看客栈(聚)","type":1,"api":"https://www.vp1127.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"网民电影","name":"网民电影(聚)","type":1,"api":"https://www.prinevillesda.org/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"MBO影视","name":"MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-{"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"千寻时光","name":"千寻时光(聚)","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 	 
