@@ -24,12 +24,9 @@
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空资源","name":"天空资源(切)","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"看看资源","name":"看看资源(优)","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"一帆资源(VPN)","name":"一帆资源(VPN)(优)","type":1,"api":"http://api.if101.tv/v1/vod?ac=list","searchable":0,"quickSearch":0},
 {"key":"每天看看","name":"每天看看(优)","type":1,"api":"http://47.113.126.237:1234/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 	 
