@@ -1,17 +1,7 @@
 ﻿{
-"spider":"http://gg.gg/tvboxjar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
+
 "sites":
 [
-	 {
-  "key": "00色窝资源",
-  "name": "🐝色窝v",
-  "type": 1,
-  "api": "https://sewozyapi.com/api.php/provide/vod/",
-  "playUrl":"https://player.sewozyplayer.com/m3u8/?url=",
-  "searchable": 1,
-  "quickSearch": 1
- },
 {"key": "快帆","name": "快帆","type": 1, "api":"https://api.kuaifan.tv/api.php/provide/vod","searchable": 1,"quickSearch":1},
 {"key": "索尼","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"quickSearch":1},
 {"key":"腾讯资源","name":"腾讯资源(切)","type":1,"api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
