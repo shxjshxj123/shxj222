@@ -43,7 +43,7 @@
 	 
 "parses": 
 [
-            {"name":"B站1","type": 0,"url":"https://2.08bk.com/?url="},
+                      {"name":"B站1","type": 0,"url":"https://2.08bk.com/?url="},
             {"name":"B站1","type": 0,"url":"https://www.8090g.cn/jiexi/?url="},
             {"name":"B站1","type": 0,"url":"https://www.administratorw.com/admin.php?url="},
             {"name":"B站1","type": 0,"url":"https://660e.com/?url="},
@@ -129,22 +129,20 @@
             {"name":"B站1","type": 0,"url":"http://dhyjiexi.arpps.com/?url="},
             {"name":"B站1","type": 0,"url":"http://s1y2.com/?url="},
             {"name":"B站1","type": 0,"url":"https://www.cuan.la/?url="},
-            {"name":"B站1","type": 0,"url":"https://jqaaa.com/jq3/?url="},&amp;url="},
+         
             {"name":"B站1","type": 0,"url":"http://jx.xdiaosi.com/?url="},
             {"name":"B站1","type": 0,"url":"http://www.4080jx.cc/jx/?url="},
             {"name":"B站1","type": 0,"url":"https://jx.70808.net/?url="},
             {"name":"B站1","type": 0,"url":"http://jx.rdhk.net/?url="},
             {"name":"B站1","type": 0,"url":"https://api.xdiaosi.com/?url="},
-            {"name":"B站1","type": 0,"url":"http://jqaaa.com/jq3/?url="},&amp;url="},
-            {"name":"B站1","type": 0,"url":"http://jx.52a.ink/?url="},
+          {"name":"B站1","type": 0,"url":"http://jx.52a.ink/?url="},
             {"name":"B站1","type": 0,"url":"http://www.1717yun.com/jx/ty.php?url="},
             {"name":"B站1","type": 0,"url":"http://api.taovb.com/?url="},
             {"name":"B站1","type": 0,"url":"https://api.927jx.com/vip/jx.php?url="},
             {"name":"B站1","type": 0,"url":"http://cdn.yangju.vip/k/?url="},
             {"name":"B站1","type": 0,"url":"http://www.sfsft.com/admin.php?url="},
             {"name":"B站1","type": 0,"url":"https://api.jiexi.la/?url="},
-            {"name":"B站1","type": 0,"url":"https://atyys.com/jx.php?id="},0&url="},
-            {"name":"B站1","type": 0,"url":"https://jx.htv009.com/?url="},
+      {"name":"B站1","type": 0,"url":"https://jx.htv009.com/?url="},
             {"name":"B站1","type": 0,"url":"http://api.baiyug.vip/index.php?url="},
             {"name":"B站1","type": 0,"url":"https://v.7cyd.com/vip/?url="},
             {"name":"B站1","type": 0,"url":"http://5.nmgbq.com/2/?url="},
@@ -225,7 +223,12 @@
             {"name":"B站1","type": 0,"url":"http://api.youoka.com/?url="},
             {"name":"B站1","type": 0,"url":"https://jx.dianyingguan.cn/vip/vip.php?xlyun="},
             {"name":"B站1","type": 0,"url":"https://xvip.jiubojx.com/vip/?url="},
-            {"name":"B站1","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
+          
+
+
+
+
+  {"name":"B站1","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
             {"name":"爱豆","type": 0,"url":"https://jx.aidouer.net/?url="},
             
             {"name":"YT","type": 0,"url":"https://jx.yangtu.top/?url="}
