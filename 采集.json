@@ -63,7 +63,7 @@
 {"name":"8090解析","url":"https://www.8090g.cn/?url=","type":1,"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"ckplayer无广","url":"https://www.ckplayer.vip/jiexi/?url=","type":1,"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"盘古无广","url":"http://www.pangujiexi.cc/jiexi.php?url=","type":1,"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name":"江湖","url":"http://jx.vipmv.co/?url=","type":1,"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+{"name":"江湖","url":"http://jx.vipmv.co/?url=","type":1,"ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 
 {"name":"YT","type": 0,"url":"https://jx.yangtu.top/?url="}
 ],
