@@ -2,6 +2,7 @@
 
 "sites":
 [
+{ "key": "玩偶内置", "name": "🚛玩偶┃T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
