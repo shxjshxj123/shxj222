@@ -3,7 +3,7 @@
 "sites":
 [
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
+{"key":"新浪","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡资源","type":1,"api":"http://www.ffzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"49zy","name":"49资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
