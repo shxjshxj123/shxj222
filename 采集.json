@@ -2,7 +2,7 @@
 
 "sites":
 [
-{"key":"率率","name": "率直连率","type":3,"api": "https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"率率","name": "率率直连","type":1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"365","name": "㊗365┃资源","type":3,"api": "csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://download.kstore.space/download/5242/lib/custom_spider_local.jar","ext":"http://mp4.ghlyys.com:916/api.php/app/"},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
