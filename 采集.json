@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "https://download.kstore.space/download/5242/py_bilivd.py"
     },
     {
       "key": "py_bilimd",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ""
+      "ext": "https://download.kstore.space/download/5242/py_bilimd.py"
     },
 {"key":"yqkan_open","name":"短剧","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://download.kstore.space/download/5242/1.jar"},
 {"key":"率率","name":"💡率率直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
