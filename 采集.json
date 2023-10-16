@@ -1,8 +1,6 @@
 ﻿{
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 
-"warningText": "阳光和谐，简单坦诚，开放包容，有我来办，马上就办，办就办好",
-
 "lives": 
 [
 {"name": "live","type": 0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/shxjshxj123/shxj222/main/xyz.txt","playerType": 1,"ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
