@@ -1,8 +1,7 @@
 ﻿{
 "wallpaper": "http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/23.jpg",
 
-"lives":[{"name":"live","type":0,"url":"./hccx/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
-],
+"lives":[{"name":"live","type":0,"url":"./lib/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "sites":
 [
