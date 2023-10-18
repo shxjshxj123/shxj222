@@ -15,18 +15,8 @@
 
 "sites":
 [
-{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","ext": {
-                "flag": [
-                    "电视剧",
-                    "电影",
-                    "韩剧",
-                    "日剧",
-                   
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }},
+{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","电视剧"]},
+
 {"key":"率率","name":"率率直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
