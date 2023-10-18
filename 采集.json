@@ -15,7 +15,7 @@
 
 "sites":
 [
-{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","电视剧"]},
+{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","电视剧"]},
 
 {"key":"率率","name":"率率直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
