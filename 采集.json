@@ -46,6 +46,16 @@
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
+    "key": "js_4KHDR",
+    "name": "👩‍⚕️┃玩偶┃姐姐",
+    "type": 3,
+    "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
+},
 {"key":"玩偶内置","name":"🚛玩偶┃T4", "type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"}
 ],
 
