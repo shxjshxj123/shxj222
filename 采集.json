@@ -23,7 +23,7 @@
 {"key":"卧龙","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡资源","type":1,"api":"http://www.ffzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"49zy","name":"49资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"索尼","name":"索尼2K", "type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"无尽","name":"无尽资源", "type":1,"api":"https://api.wujinapi.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"非凡","name":"鱼乐资源","type":1,"api":"https://api.ylzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"39影视","name":"39影视(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "索尼","name": "索尼 ","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","searchable": 1,"quickSearch":1},
