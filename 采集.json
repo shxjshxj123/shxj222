@@ -15,8 +15,12 @@
 
 "sites":
 [
-{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片"]},
-
+{"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":1},
+{"key": "MV_vod","name": "明星┃MV","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "量子资源1","name": "量子2k","type": 1,"api": "http://www.lzzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "奇影自营","name": "奇影","type": 1,"api": "http://cn.tii6.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "奇影自营1","name": "奇影备用","type": 1,"api": "http://test.qlkjy.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
+{"key": "奇影自营2","name": "奇影备用1","type": 1,"api": "https://dytt996.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key":"率率","name":"率率直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -46,16 +50,6 @@
 {"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{
-    "key": "js_4KHDR",
-    "name": "👩‍⚕️┃玩偶┃姐姐",
-    "type": 3,
-    "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/4KHDR.js"
-},
 {"key":"玩偶内置","name":"🚛玩偶┃T4", "type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=0068144bf4d24f3284819c15f3a49482"}
 ],
 
