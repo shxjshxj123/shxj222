@@ -16,6 +16,8 @@
 "sites":
 [
 {"key":"xmL_ 火狐","name":"火狐影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"资源","name":"采集资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "haiwaikan","name": "海外看","type": 1,"api": "https://haiwaikan.com/api.php/provide/vod","searchable": 1,"changeable": 1},
 {"key": "MV_vod","name": "明星┃MV","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "量子资源1","name": "量子2k","type": 1,"api": "http://www.lzzy.tv/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "奇影自营","name": "奇影","type": 1,"api": "http://cn.tii6.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
