@@ -23,7 +23,6 @@
 {"key": "奇影自营","name": "奇影","type": 1,"api": "http://cn.tii6.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "奇影自营1","name": "奇影备用","type": 1,"api": "http://test.qlkjy.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
 {"key": "奇影自营2","name": "奇影备用1","type": 1,"api": "https://dytt996.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key":"率率","name":"率率直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"暴风","name":"暴风资源","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙","name":"卧龙资源","type":1,"api":"https://collect.wolongzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
